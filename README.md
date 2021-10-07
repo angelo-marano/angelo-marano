@@ -1,4 +1,5 @@
 ## 👋 Hi, I’m @angelo-marano. 
+### In 2018, I started my company, Keyshake Corporation, to help companies bring applications and processes to modern toolsets, leveraging AWS and Azure, modern software development practices, and data science. 
 ### 👀 I’m interested in devops, cloud, containers...essentially anything that helps developers work smarter, faster, and safer. 
 ##### 📫 How to reach me: angelo@keyshake.io, [@mad_science on twitter](https://twitter.com/mad_science)
 
